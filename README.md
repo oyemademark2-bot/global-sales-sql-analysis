@@ -27,6 +27,23 @@ The goal was to answer key business questions using SQL aggregation, grouping, a
 - Date Functions (DATE_TRUNC, TO_CHAR)
 - Business Insight Interpretation
 
+  📷 Query Results
+
+   💰 Overall Revenue & Profit
+![Total Profit](screenshots/total_profit.png)
+
+  📦 Profit by Product Type
+![Product Profit](screenshots/product_profit.png)
+
+  🛒 Profit by Sales Channel
+![Sales Channel Profit](screenshots/sales_channel_profit.png)
+
+ ⚡ Profit by Order Priority
+![Order Priority Profit](screenshots/order_priority_profit.png)
+
+ 📈 Monthly Profit Trend
+![Monthly Trend](screenshots/monthly_trend.png)
+
   👤 Author
 Dr. Oyemade  
 SQL Data Analysis Project
