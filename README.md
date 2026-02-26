@@ -29,23 +29,24 @@ The goal was to answer key business questions using SQL aggregation, grouping, a
 
   📷 Query Results
 
-   💰 Overall Revenue & Profit
-![Total Profit](Total_Revenue_&_Profit.png.png)
+🏅 Overall Revenue & Profit
+![Total Revenue and Profit](Total_Revenue_%26_Profit.png)
 
-  📦 Profit by Product Type
-![Product Profit](Most_Profitable_Items.png.png)
+📦 Profit by Product Type
+![Most Profitable Items](Most_Profitable_Items.png)
 
-  🛒 Profit by Sales Channel
-![Sales Channel Profit](Online_vs_Offline_Profit.png.png)
+🛒 Profit by Sales Channel
+![Online vs Offline Profit](Online_vs_Offline_Profit.png)
 
- ⚡ Profit by Order Priority
-![Order Priority Profit](Order_Priority_Profit.png.png)
+⚡ Profit by Order Priority
+![Order Priority Profit](Order_Priority_Profit.png)
 
- 📈 Monthly Profit Trend
-![Monthly Trend](Monthly_Profit_Trend.png.png)
+📈 Monthly Profit Trend
+![Monthly Profit Trend](Monthly_Profit_Trend.png)
 
 📊 Power BI Dashboard
 ![Global Sales Dashboard](global-sales-powerbi-dashboard.png)
+
 
   👤 Author
 Dr. Oyemade  
