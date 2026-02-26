@@ -30,19 +30,19 @@ The goal was to answer key business questions using SQL aggregation, grouping, a
   📷 Query Results
 
 🏅 Overall Revenue & Profit
-![Total Revenue and Profit](total-revenue-&-profit.png)
+![Total Revenue and Profit](sql_screenshots/total-revenue-profit.png)
 
 📦 Profit by Product Type
-![Most Profitable Items](most-profitable-items.png)
+![Most Profitable Items](sql_screenshots/most-profitable-items.png)
 
 🛒 Profit by Sales Channel
-![Online vs Offline Profit](online-vs-offline-profit.png)
+![Online vs Offline Profit](sql_screenshots/online-vs-offline-profit.png)
 
 ⚡ Profit by Order Priority
-![Order Priority Profit](order-priority-profit.png)
+![Order Priority Profit](sql_screenshots/order-priority-profit.png)
 
 📈 Monthly Profit Trend
-![Monthly Profit Trend](Monthly-Profit-Trend.png)
+![Monthly Profit Trend](sql_screenshots/monthly-profit-trend.png)
 
 📊 Power BI Dashboard
 ![Global Sales Dashboard](global-sales-powerbi-dashboard.png)
