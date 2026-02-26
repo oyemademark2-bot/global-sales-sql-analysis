@@ -44,6 +44,9 @@ The goal was to answer key business questions using SQL aggregation, grouping, a
  📈 Monthly Profit Trend
 ![Monthly Trend](screenshots/monthly_trend.png)
 
+📊 Power BI Dashboard
+![Global Sales Dashboard](global-sales-powerbi-dashboard.png)
+
   👤 Author
 Dr. Oyemade  
 SQL Data Analysis Project
