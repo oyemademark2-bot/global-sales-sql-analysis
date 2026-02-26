@@ -30,7 +30,7 @@ The goal was to answer key business questions using SQL aggregation, grouping, a
   📷 Query Results
 
 🏅 Overall Revenue & Profit
-![Total Revenue and Profit](SQL ScreenShot/Total_Revenue_&_Profit.png)
+![Total Revenue and Profit](sql_screenshots/Total_Revenue_&_Profit.png)
 
 📦 Profit by Product Type
 ![Most Profitable Items](SQL ScreenShot/Most_Profitable_Items.png)
