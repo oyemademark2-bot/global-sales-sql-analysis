@@ -42,7 +42,7 @@ The goal was to answer key business questions using SQL aggregation, grouping, a
 ![Order Priority Profit](order-priority-profit.png)
 
 📈 Monthly Profit Trend
-![Monthly Profit Trend](monthly-profit-trend.png)
+![Monthly Profit Trend](Monthly Profit Trend.png)
 
 📊 Power BI Dashboard
 ![Global Sales Dashboard](global-sales-powerbi-dashboard.png)
